@@ -1,0 +1,26 @@
+linux basics:
+video: https://www.youtube.com/watch?v=2PGnYjbYuUo
+commands:
+  1.cal
+  2.date
+  3.pwd
+  4.exit
+  5.mkdir
+  6.ls
+  7.rm
+  8.cd
+  9.mv
+  10.ln
+  11.file
+  12.cp
+  13.echo
+  14.head & tail
+  15.Wildcard Expansion
+  16.pathname expansion
+  17.Arithmetic expansion
+  18.Brace expansion
+  19.Parameter expansion
+  20.Command substitution
+  21.Escape characters
+  22.Double quotes
+  23.Single Quotes
